@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Resul0316](https://github.com/Resul0316)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, juejs, magento**
 
 - 📫 How to reach me **resulavsar003@gmail.com**
 
